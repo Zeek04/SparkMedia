@@ -3,7 +3,6 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background-color: #000;
   color: #fff;
   position: sticky;
   top: 0;
@@ -11,7 +10,7 @@
 }
 
 #logo {
-  width: 120px;
+  width: 200px;
   object-fit: contain;
   margin-left: 20px;
 }
@@ -23,11 +22,11 @@
 }
 
 .nav-links a {
-  color: white;
+  color: #000;
   text-decoration: none;
   font-weight: 500;
   margin-right: 20px;
-  font-size: 30px;
+  font-size: 26px;
 }
 
 .nav-links a:hover {
@@ -45,5 +44,4 @@
 #contact a:hover{
     background-color: #000;
     color: #fff;
-    border: solid 2.5px #ffde59;
 }
