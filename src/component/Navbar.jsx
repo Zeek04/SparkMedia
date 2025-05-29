@@ -12,7 +12,7 @@ function Navbar() {
           <li><a href="#gallery">Gallery</a></li>
           <li><a href="#pricing">Pricing</a></li>
           <li><a href="#about">About</a></li>
-          <li id='Contact'><a href="#contact">Contact</a></li>
+          <li id='contact'><a href="#contact">Contact</a></li>
         </ul>
       </div>
     </nav>

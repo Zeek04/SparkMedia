@@ -13,7 +13,7 @@
 #logo {
   width: 120px;
   object-fit: contain;
-
+  margin-left: 20px;
 }
 
 .nav-links {
@@ -26,13 +26,24 @@
   color: white;
   text-decoration: none;
   font-weight: 500;
+  margin-right: 20px;
   font-size: 30px;
 }
 
 .nav-links a:hover {
-  color: #f39c12;
+  color: #ffde59;
+  border-bottom: #ffde59 1px solid;
 }
 
-#contact{
+#contact a{
+ background-color: #ffde59;
+ padding: 5px 25px;
+ border-radius: 20px;
+ color: #000;
+}
 
+#contact a:hover{
+    background-color: #000;
+    color: #fff;
+    border: solid 2.5px #ffde59;
 }
