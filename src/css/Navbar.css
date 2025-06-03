@@ -10,7 +10,7 @@
 }
 
 #logo {
-  width: 200px;
+  width: 300px;
   object-fit: contain;
   margin-left: 20px;
 }
@@ -22,7 +22,7 @@
 }
 
 .nav-links a {
-  color: #000;
+  color: #fff;
   text-decoration: none;
   font-weight: 500;
   margin-right: 20px;
@@ -38,7 +38,8 @@
  background-color: #ffde59;
  padding: 5px 25px;
  border-radius: 20px;
- color: #000;
+ border: none;
+ color: #fff;
 }
 
 #contact a:hover{
