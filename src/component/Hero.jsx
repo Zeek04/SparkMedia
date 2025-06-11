@@ -6,7 +6,7 @@ function Hero() {
   return (
     <div className="hero">
       <div className="hero-content">
-        <h1>Elevates Your Brands Content</h1>
+        <h1>Elevate Your Brand Through Powerful Visual Storytelling</h1>
         <p>Photography & Videography For Businesses</p>
       </div>
     </div>
